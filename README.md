@@ -1,4 +1,4 @@
-# CTBC_JOB
+
 ## 第一題 NLP文本分類
 ### emotion_classifier.ipynb
 ### 處理流程說明:
