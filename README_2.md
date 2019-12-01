@@ -1,5 +1,6 @@
 ## 第四題: Open Domain Question Answering
 ### 處理流程說明:
+
 1. 1_split_data.py:
 -切分訓練資料集，原始的 nlpcc-iccpol-2016.kbqa.training-data 有 14609 個樣本，將其中12,009個複制成為訓練集(train.txt), 1,300個複制成驗證集(dev.text)、1,300個複制成測試集(test.txt)
 
